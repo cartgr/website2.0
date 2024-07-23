@@ -59,7 +59,7 @@ export default function Home() {
             <div className="mt-4 flex flex-row">
 
               <a
-                href="https://scholar.google.com/"
+                href="https://scholar.google.ca/citations?user=aQ80XM8AAAAJ&hl=en&oi=ao"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mr-2"
@@ -185,7 +185,7 @@ export default function Home() {
                         </div>
                         <div className="mt-4 flex gap-2">
                           <a
-                            href="https://arxiv.org/abs/your-paper-id"
+                            href="https://arxiv.org/abs/2405.07327"
                             className="bg-neutral-50 hover:bg-neutral-200 text-neutral-800 px-3 py-2 rounded-md text-sm font-medium flex items-center border border-neutral-300"
                             target="_blank"
                             rel="noopener noreferrer"
